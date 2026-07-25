@@ -1,0 +1,27 @@
+body{
+     margin: 0;
+     background: rgb(250, 251, 250);
+     color: #1C2534;
+     font-family: Verdana, Arial , sans-serif;
+     font-size: 16px;
+     line-height: 1.7;
+
+} 
+
+header{
+
+    background-color: #0E1629 ;
+    color: #FFFFFF ;
+    padding: 34px 40px ;
+}
+h2{
+    color: rgb(188, 61, 175) ;
+}
+section{
+    margin: 20px 40px ;
+}
+#contact{
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    
+}
